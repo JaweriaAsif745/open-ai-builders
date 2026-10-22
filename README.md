@@ -1,4 +1,3 @@
-# open-ai-builders
 # Open AI Builders 🤖
 
 **Learn together. Build together. Contribute to open source.**
