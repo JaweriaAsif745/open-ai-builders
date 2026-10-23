@@ -1,0 +1,32 @@
+name: Question or Contribution Help
+description: Ask a question or get help contributing to Open AI Builders
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have a question about Open AI Builders? Tell us what you need help with.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: Explain what you would like to know.
+      placeholder: What do you need help with?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Tell us what you have tried or where you got stuck.
+      placeholder: Add relevant details here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked existing issues and discussions for a similar question.
+          required: true
