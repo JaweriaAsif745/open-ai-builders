@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Community Discussions
+    url: https://github.com/JaweriaAsif745/open-ai-builders/discussions
+    about: Ask general questions, introduce yourself, and discuss ideas with the community.
+  - name: 📖 Contribution Guidelines
+    url: https://github.com/JaweriaAsif745/open-ai-builders/blob/main/CONTRIBUTING.md
+    about: Learn how to contribute code, documentation, or AI projects.
