@@ -74,6 +74,25 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Open an issue to suggest a project, request help, or discuss an improvement. For existing projects, explain what you built and link to its repository. For new projects, describe the problem, your proposed solution, and the skills or help needed.
 
+## 🌱 Good First Contributions
+
+New to open source or AI? You can contribute to Open AI Builders even if you're just starting out!
+
+- 📚 **Improve documentation:** Fix typos or make instructions easier to understand.
+- 🧑‍💻 **Share a project:** Add an AI project you've built to our community showcase.
+- 💡 **Suggest an idea:** Propose a new collaborative AI project.
+- 🧪 **Add a beginner example:** Contribute a small Python or machine learning example.
+- 🔍 **Review contributions:** Help improve documentation, examples, and project ideas.
+
+### How to contribute
+
+1. Read our [Contributing Guidelines](CONTRIBUTING.md).
+2. Browse [open issues](../../issues) to find something you can help with.
+3. Comment on an issue before starting substantial work.
+4. Submit your changes through a pull request.
+
+**Every contribution counts — you don't need to be an expert to get started!**
+
 ## 🌍 Build With Us
 
 One person doesn't have to build everything. This community grows through the ideas, projects, knowledge, and contributions of its members.
